@@ -33,7 +33,7 @@ func TestComplete(t *testing.T) {
 	}
 }
 
-func TestSaveget(t *testing.T) {
+func TestSaveGet(t *testing.T) {
 	l1 := todo.List{}
 	l2 := todo.List{}
 	taskName := "New Task"
